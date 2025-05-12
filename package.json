@@ -16,6 +16,6 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "space_math": "github:davidfarmer/Space_Math"
+    "space_math": "github:oscarlevin/Space_Math"
   }
 }
